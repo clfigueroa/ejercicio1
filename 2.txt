@@ -3,3 +3,5 @@
 Aquí vuelvo a agregar un poco más de información. Dale Claudio, no 
 modifiques este por favor!
 Ahora para que aprendas a resolver el conflicto de github
+
+Ahora estoy modificando yo
